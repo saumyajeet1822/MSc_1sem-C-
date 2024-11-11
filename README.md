@@ -1,4 +1,4 @@
-# MSc_1sem-C-
+# MSc_1sem-C++
 
 Here's a basic GitHub README template to showcase class notes in your repository:
 
